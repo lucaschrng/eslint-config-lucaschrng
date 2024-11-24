@@ -1,6 +1,6 @@
 # @lucaschrng/eslint
 
-A lightweight and strict ESLint preset to enforce consistent and clean code formatting.
+My ESLint preset.
 
 ## Features
 
