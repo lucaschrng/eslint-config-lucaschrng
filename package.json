@@ -6,8 +6,17 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
   "peerDependencies": {
     "eslint": "^9.0.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucaschrng/eslint-config-lucaschrng.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lucaschrng/eslint-config-lucaschrng/issues"
+  },
+  "homepage": "https://github.com/lucaschrng/eslint-config-lucaschrng#readme",
+  "description": ""
 }
