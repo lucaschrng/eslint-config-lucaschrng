@@ -1,5 +1,5 @@
 {
-  "name": "@lucaschrng/eslint",
+  "name": "@lucaschrng/eslint-config-default",
   "version": "1.0.4",
   "main": "index.js",
   "scripts": {},
